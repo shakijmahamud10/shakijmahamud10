@@ -14,4 +14,4 @@ Skills: HTML / CSS / JS / PHP /  REACT /
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?shakijmahamud10=anuraghazra&layout=compact)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakijmahamud10)](https://github.com/anuraghazra/github-readme-stats)
